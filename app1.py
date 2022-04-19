@@ -10,7 +10,7 @@ import pandas as pd
 import nltk
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import re
-
+nltk.download('stopwords')
 from nltk.stem.porter import PorterStemmer
 from nltk.corpus import stopwords
 
