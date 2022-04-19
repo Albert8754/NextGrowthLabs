@@ -7,8 +7,6 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import textblob
-from textblob import TextBlob
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import nltk
 import re
