@@ -7,9 +7,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-nltk.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
-import nltk
 import re
 
 from nltk.stem.porter import PorterStemmer
