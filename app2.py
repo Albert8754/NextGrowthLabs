@@ -4,9 +4,11 @@
 # In[1]:
 
 
+from gettext import install
 import streamlit as st
 import numpy as np
 import pandas as pd
+pip install nltk
 import nltk
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import re
