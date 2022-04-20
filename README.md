@@ -10,10 +10,10 @@ Problem statement - There are times when a user writes Good, Nice App or any oth
 
 Your goal is to identify such ratings where review text is good, but rating is negative- so that the support team can point this to users. 
 Deploy it using - Flask/Streamlit etc and share the live link.
-ans:
+ans:got module not found  error while running 
 solution file is uploaded as https://github.com/Albert8754/NextGrowthLabs/blob/main/part1_question2.ipynb
-live link:
-flask files:
+live link:https://share.streamlit.io/albert8754/nextgrowthlabs/main/app2.py
+
 
 3.Ranking Data - Understanding the co-relation between keyword rankings with description or any other attribute. Here’s the dataset. 
 ans:
